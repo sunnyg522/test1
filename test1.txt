@@ -1,1 +1,1 @@
-s my new text file
+my new text file
